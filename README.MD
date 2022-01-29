@@ -22,4 +22,9 @@
 1. DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻
 1. UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼
 1. DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
+
+  ```java
+     public class Abc {
+     } 
+  ```
    
