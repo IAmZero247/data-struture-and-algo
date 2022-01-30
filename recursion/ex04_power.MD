@@ -1,6 +1,6 @@
 # Power
 
- -  base exponet 
+ -  base and exponent 
    
  -  3^2
   
