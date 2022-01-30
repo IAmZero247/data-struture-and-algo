@@ -14,20 +14,20 @@
 
 
 1. flow -> bin(n) = 10 * bin(n/2) +  (n%2) ;
-1. base -> n=1 return 1;
+1. base -> n=0 return 0;
 1. unintentional-> n<0 return -1
 
 ```java
-  public static int bin(int n) {
+   public static int bin(int n) {
       if (n <0){
        return -1;
       }
      
-      if (n ==1){
-       return 1;
+      if (n ==0){
+       return 0;
       }
      
-      return 10 * bin(n/2) +  (n%2) ;
+      return  (n%2) + 10 * bin(n/2)  ;
    }
 ```
 
