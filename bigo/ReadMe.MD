@@ -9,11 +9,13 @@
   Refer -> https://www.bigocheatsheet.com/
   
   
-  - [ ] Mercury
-  - [x] Venus
+ 
 
 - text in red -
 + text in green +
 ! text in orange !
 # text in gray #
 @@ text in purple (and bold)@@
+
+ - [ ] Mercury
+  - [x] Venus
