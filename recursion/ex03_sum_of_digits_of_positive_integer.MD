@@ -9,7 +9,8 @@
 ```
   Logic 
   1. Divide by 10 , get remainder 
-  2. Divide quotient by 10  until the quotient is between (0,9), get remainder and do summation 
+  2. Divide quotient by 10  until the quotient is 0, get remainder each time and do summation 
+  3. when quotient is 0 return 0
 
 
    For Eg 
@@ -32,8 +33,8 @@
        return -1;
       }
      
-      if (n >=0 && n <=9){
-       return n;
+      if (n ==0 ){
+       return 0;
       }
      
       return sum(n/10) + n%10;
