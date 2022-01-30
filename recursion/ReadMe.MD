@@ -53,18 +53,32 @@
    
    ```java
    public static int powerOf2(int n){
-      int r = 1
+      
       if(n<=0){
       return -1;
       }
       if(n ==0){
       return 1;
       }else{
-      return r = 2*powerOf2(n-1);
+      int r = 2*powerOf2(n-1);
+      return r;
       }
    }
    ```
 
-2. Iteration    
+2. Iteration   
+   
+   ```java
+   
+   public static int powerOf2(int n){
+   int b=0
+   int r =1;
+    while(b<=n){
+    r = r *2
+    }
+   return r;
+   }
+   
+   ```
 
 
