@@ -22,19 +22,19 @@
 
 
 1. flow -> sumOfDigits(n) = sumOfDigit(n/10) + n%10
-1. base -> n<=0 return 0;
+1. base -> 0<=n<=9 return n;
 1. unintentional-> n<0 return -1
 
 ```java
-  public static int fact(int n) {
+ public static int sum(int n) {
       if (n <0){
        return -1;
       }
      
-      if (n ==1 || n ==0){
-       return 1;
+      if (n >=0 && n <=9){
+       return n;
       }
      
-      return n * fact(n-1);
+      return sum(n/10) + n%10;
    }
 ```
