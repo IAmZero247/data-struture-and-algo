@@ -34,7 +34,37 @@
 ## Rules To Follow For Recursion Problem
   - Recursion Case -> defines flow , for ex  n! = n *(n-1)!
   - Base Case  -> the stopping criteria, for ex if n=0 or n=1 we will return 1
-  - Unintional Case ->the constraint , for ex if n<0 we return -1
+  - Unintentional Case ->the constraint , for ex if n<0 we return -1
 
+## Example . powerOf2 
+
+
+   ```
+   2^2 = 2* 2
+   2^3 = 2*2*2
+   2^n = 2*2*2...*2
+   
+   recursion case -> 2^n = 2 * 2^(n-1)
+   base case -> 2^1 = 2 and 2^0 =1
+   unintentional case => n<-1 return -1 
+   ```
+   
+1. Recursion
+   
+   ```java
+   public static int powerOf2(int n){
+      int r = 1
+      if(n<=0){
+      return -1;
+      }
+      if(n ==0){
+      return 1;
+      }else{
+      return r = 2*powerOf2(n-1);
+      }
+   }
+   ```
+
+2. Iteration    
 
 
