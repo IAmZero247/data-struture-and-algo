@@ -63,6 +63,7 @@
       int r = 2*powerOf2(n-1);
       return r;
       }
+      
    }
    ```
 
@@ -71,6 +72,7 @@
    ```java
    
    public static int powerOf2(int n){
+   
      int b=0;
      int r=1;
      while(b<n){
@@ -79,6 +81,7 @@
      b = b+1;
      }
      return r;
+     
    }
    
    //n =4
