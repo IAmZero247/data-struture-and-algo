@@ -7,3 +7,7 @@
   **Space Complexity -> a way of showing how the memory consumation increase as size of input increases**
 
   Refer -> https://www.bigocheatsheet.com/
+  
+  
+  - [ ] Mercury
+  - [x] Venus
