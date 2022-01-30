@@ -7,8 +7,9 @@
 - n= 789 -> 7+8+9=24 
 
 ```
-  Logic is divide by 10 , get remainder 
-  Divide quotient by 10  until the quotient is 0 , get remainder and do summation 
+  Logic 
+  1. Divide by 10 , get remainder 
+  2. Divide quotient by 10  until the quotient is between (0,9), get remainder and do summation 
 
 
    For Eg 
