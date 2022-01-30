@@ -8,6 +8,12 @@
 
   Refer -> https://www.bigocheatsheet.com/
   
+  ## Big O , Big Omega , Big Theta
+  
+    - **Big O** - complexity less or equal to worst case.
+    - **Big Omega** -  complexity that atleast more then the best case 
+    - **Big Theta** - complexity within the bound between best and worst case
+  
   
  ```diff
 - text in red
