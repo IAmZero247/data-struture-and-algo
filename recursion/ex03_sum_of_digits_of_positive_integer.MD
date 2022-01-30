@@ -24,7 +24,7 @@
 
 
 1. flow -> sumOfDigits(n) = sumOfDigit(n/10) + n%10
-1. base -> 0<=n<=9 return n;
+1. base -> n=0 return 0
 1. unintentional-> n<0 return -1
 
 ```java
