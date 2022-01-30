@@ -11,7 +11,7 @@ The algorithm is based on the below facts.
 
 
 1. flow -> gcd(n1, n2) = gcd(n2, n1%n2) --->, till n1%n2 =0 ---> gcd(n2,0) ---> result = n2
-1. base -> when remainder = 0 return n1  
+1. base -> when remainder = 0 return n1  for that call.
 1. unintentional-> n1 or n2 < 0 return -1
 
 ```java
