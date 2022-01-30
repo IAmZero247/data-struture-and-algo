@@ -71,14 +71,20 @@
    ```java
    
    public static int powerOf2(int n){
-   int b=0
-   int r =1;
-    while(b<=n){
-    r = r *2
-    }
-   return r;
+     int b=0
+     int r =1;
+     while(b<=n){
+     r = r *2
+     }
+     return r;
    }
    
+   //n =4 
+   //0-1 2  4
+   //1-2 4  4
+   //2-3 8  4
+   //3-4 16 4 
+   //4 while breaks
    ```
 
 
