@@ -15,6 +15,7 @@
 ! text in orange
 # text in gray
 - [ ] Mercury
++ [x] Venus
 @@ text in purple (and bold)@@
 ```
 
