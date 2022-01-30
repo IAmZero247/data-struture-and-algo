@@ -6,8 +6,7 @@
 ## Java 
 
   ```java
-    public int productofArray(int A[], int N) 
-    { 
+    public int productofArray(int A[], int N) { 
      if (N ==0) 
          return 1;
      return  A[N-1] * productofArray (A, N-1) ;         
