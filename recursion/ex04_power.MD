@@ -12,6 +12,7 @@
 
 1. flow -> power(base, exponent) = base * power(base, exponent-1)
 1. base -> when exponent = 0 return 1
+1. note -> n^0 = 1 and n^1 =1   
 1. unintentional-> base or exponent < 0 return -1
 
 ```java
