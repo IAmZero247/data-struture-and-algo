@@ -14,6 +14,7 @@
 + text in green
 ! text in orange
 # text in gray
+- [ ] Mercury
 @@ text in purple (and bold)@@
 ```
 
