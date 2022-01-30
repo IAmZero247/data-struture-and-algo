@@ -26,6 +26,6 @@
  
 |                  | Recursion    | Iteration | Comments
 | -----------------| ------------ |-----------|----------
-| Space Efficient  | No           |  Yes      |
-| Time Efficient   | No           |  Yes      |
-| Easy To Code     | Yes          |  No       |
+| Space Efficient  | No           |  Yes      | No stack memory in case of Iteration
+| Time Efficient   | No           |  Yes      | In case of recusrion , needs pop n push elements to stack memory
+| Easy To Code     | Yes          |  No       | 
