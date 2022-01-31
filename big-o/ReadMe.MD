@@ -20,11 +20,11 @@
     
  1. Below example We search for xth element in an array of n element. 
 
-     ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
+  ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
   
     
     
-## Complexity Chart    
+
      
     
      
@@ -32,7 +32,7 @@
   
 | Complexity | Recursion    | Examples
 | -----------| ------------ |-----------------------------------------
-| O(1)       | Contstant    |  Accesing a specific element in array
+| O(1)       | Contstant    | Accesing a specific element in array
 | O(N)       | Linear       | Iterating whole element from a array
 | O(LOGN)    | Logarithmic  | Find an element in sorted array
 | O(N^2)     | Quadratic    | Looking at every index in a array twice
