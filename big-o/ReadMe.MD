@@ -15,12 +15,12 @@
     - **Big Theta** - complexity within the bound between best and worst case
     
     - Below example with an array of n element. 
-    [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+    [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
       
     
     
   ## Complexity Chart    
-      [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+      [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_complexity_chart.jpg )
       
       
   ## Examples - Time Complexity 
@@ -35,8 +35,8 @@
 
  ## Examples - Space Complexity 
  
- [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
- [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+ [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)
+ [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)
       
   
   
