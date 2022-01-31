@@ -12,9 +12,9 @@
   
   ## Big O , Big Omega , Big Theta
   
-    - **Big O** - complexity less or equal to worst case.
-    - **Big Omega** -  complexity that atleast more then the best case 
-    - **Big Theta** - complexity within the bound between best and worst case
+    - Big O : complexity less or equal to worst case.
+    - Big Omega : complexity that atleast more then the best case 
+    - Big Theta : complexity within the bound between best and worst case
     
     - Below example with an array of n element. 
     [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
