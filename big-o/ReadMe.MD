@@ -38,8 +38,8 @@
 
 ## Examples - Space Complexity 
  
-  [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)]
-  [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)]
+  ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)
+  ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)
       
   
   
