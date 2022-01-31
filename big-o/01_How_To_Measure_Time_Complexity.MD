@@ -16,6 +16,6 @@
 
 ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/mul_big_o.jpg)
 
-## Find Greatest Number
+## Find Biggest Number
 
 ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/ex_time_complexity.jpg)
