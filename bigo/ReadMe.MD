@@ -13,7 +13,18 @@
     - **Big O** - complexity less or equal to worst case.
     - **Big Omega** -  complexity that atleast more then the best case 
     - **Big Theta** - complexity within the bound between best and worst case
+    
+    
+    
+  ## Examples
   
+| Complexity | Recursion    | Examples
+| -----------| ------------ |-----------------------------------------
+| O(1)       | Contstant    |  Accesing a specific element in array
+| O(N)       | Linear       | Iterating whole element from a array
+| O(LOGN)    | Logarithmic  | Find an element in sorted array
+| O(N^2)     | Quadratic    | Looking at every index in a array twice
+| O(2^N)     | Exponential  | Double recursion in fibonacci
   
  ```diff
 - text in red
