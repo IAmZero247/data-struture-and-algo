@@ -37,8 +37,12 @@
 | O(2^N)     | Exponential  | Double recursion in fibonacci
 
 ## Examples - Space Complexity 
- 
+
+  
+  1. Example 1
   ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)
+  
+  2. Example 2 - The call inside iteration are not dependent on value from previous iteration
   ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)
       
   
