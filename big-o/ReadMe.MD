@@ -17,18 +17,16 @@
     
  1. Below example with an array of n element. 
 
-     [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+     [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)]
   
-    [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
-      
     
     
 ## Complexity Chart    
-      [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_complexity_chart.jpg )
+     
+     [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_complexity_chart.jpg )]
       
-      [![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
-      
-  ## Examples - Time Complexity 
+     
+## Examples - Time Complexity 
   
 | Complexity | Recursion    | Examples
 | -----------| ------------ |-----------------------------------------
@@ -38,10 +36,10 @@
 | O(N^2)     | Quadratic    | Looking at every index in a array twice
 | O(2^N)     | Exponential  | Double recursion in fibonacci
 
- ## Examples - Space Complexity 
+## Examples - Space Complexity 
  
- [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)
- [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)
+  [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity1.jpg)]
+  [![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/sp_complexity2.jpg)]
       
   
   
