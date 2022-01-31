@@ -12,10 +12,12 @@
 ## Add 
 ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/add_big_o.jpg)
 
-## Mulitply 
+## Loop Inside Loop
 
 ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/mul_big_o.jpg)
 
 ## Find Biggest Number
 
 ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/ex_time_complexity.jpg)
+
+## Recursion
