@@ -14,9 +14,16 @@
     - **Big Omega** -  complexity that atleast more then the best case 
     - **Big Theta** - complexity within the bound between best and worst case
     
+    - Below example with an array of n element. 
+    [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+      
     
     
-  ## Examples
+  ## Complexity Chart    
+      [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+      
+      
+  ## Examples - Time Complexity 
   
 | Complexity | Recursion    | Examples
 | -----------| ------------ |-----------------------------------------
@@ -25,6 +32,13 @@
 | O(LOGN)    | Logarithmic  | Find an element in sorted array
 | O(N^2)     | Quadratic    | Looking at every index in a array twice
 | O(2^N)     | Exponential  | Double recursion in fibonacci
+
+ ## Examples - Space Complexity 
+ 
+ [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+ [Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")
+      
+  
   
  ```diff
 - text in red
