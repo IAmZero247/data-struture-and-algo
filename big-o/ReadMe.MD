@@ -14,8 +14,11 @@
  1. Big O : complexity less or equal to worst case.
  1. Big Omega : complexity that atleast more then the best case 
  1. Big Theta : complexity within the bound between best and worst case
+
+  ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_complexity_chart.jpg)
+      
     
- 1. Below example with an array of n element. 
+ 1. Below example We search for xth element in an array of n element. 
 
      ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
   
@@ -23,8 +26,7 @@
     
 ## Complexity Chart    
      
-     ![Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_complexity_chart.jpg)
-      
+    
      
 ## Examples - Time Complexity 
   
