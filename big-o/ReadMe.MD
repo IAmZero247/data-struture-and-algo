@@ -8,8 +8,7 @@
 
   Refer -> https://www.bigocheatsheet.com/
   
-  [![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
-  
+ 
 ## Big O , Big Omega , Big Theta
   
  1. Big O : complexity less or equal to worst case.
@@ -17,6 +16,9 @@
  1. Big Theta : complexity within the bound between best and worst case
     
  1. Below example with an array of n element. 
+
+     [![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+  
     [Image](https://github.com/IAmZero247/data-strutures-and-algorithms/blob/main/imgs/big-o/bigO_bigOmega_bigTheta.jpg)
       
     
